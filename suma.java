@@ -5,6 +5,6 @@ int numero2 = 0;
 System.out.println("Introdueix el primer numero:");
 numero1 = reader.nextInt();
 
-System.out.println("Introdueix el segon numero:");
+System.out.println("Introdueix el segon nsdfasdfasdfsdfadsfasf");
 numero2 = reader.nextInt();
 
